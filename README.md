@@ -154,10 +154,10 @@ If implemented, these strategies could:
 **Aniket Rawat**  
 Aspiring Data Analyst | Power BI | SQL | Excel  
 
-Linkedin :- 
+Linkedin :- www.linkedin.com/in/aniket-rawat-44a6b63aa
 
-Gmail :- 
+Gmail :- arvianshrwt1999@gmail.com
 
-Github :-  
+Github :-  https://github.com/Aniket-Rawat071199
 
 
