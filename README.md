@@ -29,7 +29,12 @@ The objective of this project is to:
 - Churn Rate: 26.54%  
 - High-Risk Customers: 1,413  
 
-Dataset: Telco Customer Churn Dataset
+Dataset: 
+
+The dataset used for this project can be accessed below:
+
+[Download Telco Churn Dataset](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/telco_churn_dataset.csv)
+
 
 ---
 
