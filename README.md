@@ -102,7 +102,7 @@ New columns created:
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/customer_churn_dashboard.png)
 
 ---
 
