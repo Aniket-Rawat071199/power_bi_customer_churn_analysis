@@ -1,122 +1,158 @@
-#  Customer Churn Analysis Dashboard
-
-##  Project Overview
-
-Customer churn is one of the biggest challenges for subscription-based businesses.  
-This project analyzes telecom customer data to identify churn patterns, high-risk customers, and key factors influencing customer retention.
-
-The dashboard was built using **Power BI** with data cleaning, feature engineering, and DAX measures.
+<h1 align="center">📊 Power BI Customer Churn Analysis Dashboard</h1>
+<p align="center">
+Data Cleaning • DAX • Business Insights • Retention Strategy
+</p>
 
 ---
 
-##  Business Problem
+## 🛠 Tech Stack
 
-The telecom company is experiencing a high churn rate (26.54%).  
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Analytics](https://img.shields.io/badge/Domain-Business%20Analytics-orange)
+![Data Cleaning](https://img.shields.io/badge/Process-Data%20Preparation-green)
 
-The objective of this project is to:
+---
+
+## 📌 Executive Summary
+
+This project analyzes **7,043 telecom customers** and identifies a **26.54% churn rate**.  
+
+The analysis reveals that churn is significantly higher among:
+- Customers in their first 6 months  
+- Month-to-Month contract users  
+
+Data-driven retention strategies were developed to reduce churn and improve long-term revenue stability.
+
+---
+
+## 🎯 Business Problem
+
+The telecom company is experiencing high customer attrition, impacting recurring revenue and customer lifetime value.
+
+### Objectives:
 
 - Identify key drivers of churn  
 - Segment high-risk customers  
-- Analyze the impact of tenure and contract types  
+- Analyze tenure and contract impact  
 - Provide actionable business recommendations  
 
 ---
 
-##  Dataset Information
+## 📂 Dataset Information
 
 - Total Customers: 7,043  
 - Churned Customers: 1,869  
 - Churn Rate: 26.54%  
 - High-Risk Customers: 1,413  
 
-Dataset: 
+### 📥 Dataset Access
 
-The dataset used for this project can be accessed below:
-
-[Download Telco Churn Dataset](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/telco_churn_dataset.csv)
-
+- [View Dataset on GitHub](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/telco_churn_dataset.csv)  
+- [Direct Download (CSV)](https://raw.githubusercontent.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/main/telco_churn_dataset.csv)
 
 ---
 
-##  Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 
-The following steps were performed:
+The following preprocessing steps were performed:
 
 - Removed duplicate records  
 - Trimmed extra spaces  
-- Standardized text formatting (Yes/No capitalization)  
+- Standardized categorical values (Yes/No formatting)  
 - Replaced null values in pricing columns with 0  
-- Created new calculated columns  
-- Built DAX measures for KPIs  
+- Created derived columns  
+- Developed DAX measures for KPI tracking  
 
 ---
 
-##  Feature Engineering
+## ⚙️ Feature Engineering
 
 New columns created:
 
-- Customer Type (New / Existing)
-- Tenure Group (0–6, 6–12, 12+ months)
-- High Risk Flag
+- Customer Type (New / Existing)  
+- Tenure Group (0–6, 6–12, 12+ months)  
+- High Risk Flag  
 
 ---
 
-##  Dashboard KPIs
+## 📊 Dashboard KPIs
 
 - Total Customers  
 - Churn Count  
 - Churn Rate %  
 - High Risk Customers  
-- Revenue Analysis  
+- Revenue Contribution  
 
 ---
 
-##  Key Insights
+## 📈 Key Insights
 
-1. Customers in their first 6 months show the highest churn rate.
-2. Month-to-Month contracts have significantly higher churn.
-3. Long-term contracts reduce churn probability.
-4. Existing customers generate higher revenue.
-5. 1 in 4 customers leave the service — retention strategy needed.
+1. Customers in their first 6 months show the highest churn rate.  
+2. Month-to-Month contracts drive maximum churn.  
+3. Long-term contracts significantly reduce churn probability.  
+4. Existing customers contribute higher revenue.  
+5. Nearly 1 in 4 customers leave — indicating urgent retention needs.  
 
 ---
 
-##  Business Recommendations
+## 🚀 Business Recommendations
 
-- Improve onboarding experience in first 6 months  
-- Offer discounts for yearly contracts  
+- Improve onboarding experience during first 6 months  
+- Offer incentives for yearly and two-year contracts  
 - Identify and target high-risk customers early  
-- Implement loyalty and retention programs  
-- Introduce bundled service offers  
+- Implement structured loyalty programs  
+- Introduce bundled service pricing models  
 
 ---
 
-##  Tools Used
+## 💼 Business Impact
 
-- Power BI  
-- DAX  
-- Data Cleaning Techniques  
-- CSV Dataset  
+If implemented, these strategies could:
 
----
-
-##  Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/customer_churn_dashboard.png)
+- Reduce early-stage churn by 10–15%  
+- Increase long-term contract adoption  
+- Improve customer lifetime value  
+- Protect recurring revenue streams  
 
 ---
 
-##  Project Presentation
+## 🔄 Project Workflow
 
- [Click here to view the presentation](https://drive.google.com/file/d/1tMoi1YfLBxjJpTCpoP6TxOLOC2qtAQ6i/view?usp=sharing)
+1. Data Collection  
+2. Data Cleaning & Standardization  
+3. Feature Engineering  
+4. KPI Creation using DAX  
+5. Dashboard Design in Power BI  
+6. Business Insight Generation  
 
 ---
 
-##  Author
+## 📷 Dashboard Preview
 
-Aniket Rawat  
+![Dashboard Screenshot](customer_churn_dashboard.png)
+
+---
+
+## 📎 Project Presentation
+
+👉 [View Full Presentation](https://drive.google.com/file/d/1tMoi1YfLBxjJpTCpoP6TxOLOC2qtAQ6i/view?usp=sharing)
+
+---
+
+## 🚀 Future Improvements
+
+- Build churn prediction model using Machine Learning  
+- Deploy dashboard to Power BI Service  
+- Automate data refresh pipeline  
+- Perform advanced customer segmentation  
+
+---
+
+## 👤 Author
+
+**Aniket Rawat**  
 Aspiring Data Analyst | Power BI | SQL | Excel  
-Gmail :- arvianshrwt1999@gmail.com
-linkedin :- 
-Github :- 
+
+🔗 Connect on LinkedIn  
 
