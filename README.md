@@ -5,7 +5,7 @@ Data Cleaning • DAX • Business Insights • Retention Strategy
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
@@ -14,7 +14,7 @@ Data Cleaning • DAX • Business Insights • Retention Strategy
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 This project analyzes **7,043 telecom customers** and identifies a **26.54% churn rate**.  
 
@@ -26,7 +26,7 @@ Data-driven retention strategies were developed to reduce churn and improve long
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 The telecom company is experiencing high customer attrition, impacting recurring revenue and customer lifetime value.
 
@@ -39,21 +39,21 @@ The telecom company is experiencing high customer attrition, impacting recurring
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 - Total Customers: 7,043  
 - Churned Customers: 1,869  
 - Churn Rate: 26.54%  
 - High-Risk Customers: 1,413  
 
-### 📥 Dataset Access
+###  Dataset Access
 
-- [View Dataset on GitHub](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/telco_churn_dataset.csv)  
-- [Direct Download (CSV)](https://raw.githubusercontent.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/main/telco_churn_dataset.csv)
+- [View Dataset on GitHub](https://github.com/Aniket-Rawat071199/power_bi_customer_churn_analysis/blob/main/dataset/telco_churn_dataset.csv)  
+
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 The following preprocessing steps were performed:
 
@@ -66,7 +66,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 New columns created:
 
@@ -76,7 +76,7 @@ New columns created:
 
 ---
 
-## 📊 Dashboard KPIs
+##  Dashboard KPIs
 
 - Total Customers  
 - Churn Count  
@@ -86,7 +86,7 @@ New columns created:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 1. Customers in their first 6 months show the highest churn rate.  
 2. Month-to-Month contracts drive maximum churn.  
@@ -96,7 +96,7 @@ New columns created:
 
 ---
 
-## 🚀 Business Recommendations
+##  Business Recommendations
 
 - Improve onboarding experience during first 6 months  
 - Offer incentives for yearly and two-year contracts  
@@ -106,7 +106,7 @@ New columns created:
 
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 If implemented, these strategies could:
 
@@ -117,7 +117,7 @@ If implemented, these strategies could:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Data Collection  
 2. Data Cleaning & Standardization  
@@ -128,19 +128,19 @@ If implemented, these strategies could:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Screenshot](customer_churn_dashboard.png)
 
 ---
 
-## 📎 Project Presentation
+##  Project Presentation
 
-👉 [View Full Presentation](https://drive.google.com/file/d/1tMoi1YfLBxjJpTCpoP6TxOLOC2qtAQ6i/view?usp=sharing)
+ [View Full Presentation](https://drive.google.com/file/d/1tMoi1YfLBxjJpTCpoP6TxOLOC2qtAQ6i/view?usp=sharing)
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Build churn prediction model using Machine Learning  
 - Deploy dashboard to Power BI Service  
@@ -149,10 +149,15 @@ If implemented, these strategies could:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Aniket Rawat**  
 Aspiring Data Analyst | Power BI | SQL | Excel  
 
-🔗 Connect on LinkedIn  
+Linkedin :- 
+
+Gmail :- 
+
+Github :-  
+
 
